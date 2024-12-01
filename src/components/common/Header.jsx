@@ -1,8 +1,7 @@
 import { Link } from "react-router-dom";
 import { navlink } from "../../assets/dummyData";
 
-import logo from "../../assets/images/logo.png";
-import "./style.css";
+import logo from "/public/images/logo.png";
 import { useState } from "react";
 import MenuIcon from "@mui/icons-material/Menu";
 const Header = () => {
